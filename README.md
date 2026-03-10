@@ -128,4 +128,4 @@ Separa o endpoint de saúde da aplicação, permitindo que o ALB detecte falhas 
 
 ---
 
-Feito com ❤️ por [Chaya Elharar](https://chayacode.com.br) | DevOps & Cloud Infrastructure
+Feito com por [Chaya Elharar](https://chayacode.com.br) | DevOps & Cloud Infrastructure
