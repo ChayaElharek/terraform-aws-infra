@@ -126,6 +126,9 @@ Separa o endpoint de saúde da aplicação, permitindo que o ALB detecte falhas 
 - [ ] Módulo RDS para banco de dados
 - [ ] GitHub Actions para CI/CD do Terraform (plan no PR, apply no merge)
 
-![Terraform Init](docs/terraform-init.png)
+## 📸 Screenshots
+
+### Terraform Init
+![Terraform Init](https://raw.githubusercontent.com/ChayaElharek/terraform-aws-infra/main/terraform.png)
 
 Feito com por [Chaya Elharar](https://chayacode.com.br) | DevOps & Cloud Infrastructure
