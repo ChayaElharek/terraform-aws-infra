@@ -131,4 +131,4 @@ Separa o endpoint de saúde da aplicação, permitindo que o ALB detecte falhas 
 ### Terraform Init
 ![Terraform Init](https://raw.githubusercontent.com/ChayaElharek/terraform-aws-infra/main/terraform.png)
 
-Feito com por [Chaya Elharar](https://chayacode.com.br) | DevOps & Cloud Infrastructure
+Feito por [Chaya Elharar](https://chayacode.com.br) | DevOps & Cloud Infrastructure
